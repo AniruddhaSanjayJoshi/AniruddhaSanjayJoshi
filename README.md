@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aniruddha Joshi</h1>
+<h1 align="center"><b><span style="font-size: 46px;">Hi 👋, I'm Aniruddha Joshi</span></b></h1>
 
 <p align="center"><b>
-  Designing scalable AI systems that empower real-time decision-making in healthcare and beyond.
-</b></p>
+  <b><span style="font-size: 36px;">"Designing scalable AI systems that empower real-time decision-making in healthcare and beyond."</span></b>
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ANNIjoshi2802&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,13 +10,18 @@
 
 - 🔭 Currently building **PanaceAI** – an AI-powered public health alert platform deployed on AWS.
   
+  
 - 🧠 Past Projects: **Mental Health Monitoring**, **Fetal AI using AIML**, real-time data & NLP-based systems.
+  
   
 - 💼 **Data Science Intern @ Emerson** – building predictive ML models & visual analytics with Python & Tableau.
   
+  
 - 🌱 Passionate about **AI for Healthcare**, scalable system design, and real-time analytics.
   
+  
 - 💬 Ask me about **Java, Python, NLP, Flutter, AWS, Android Studio**, and **ML pipelines**.
+  
   
 - 📫 Reach me at: **aniruddhajoshi2468@gmail.com**
 
