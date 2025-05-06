@@ -14,7 +14,7 @@
 - 🧠 Past Projects: **Mental Health Monitoring**, **Fetal AI using AIML**, real-time data & NLP-based systems.
   
   
-- 💼 **Data Science Intern @ Emerson** – building predictive ML models & visual analytics with Python & Tableau.
+- 💼 **Data Science Intern  – building predictive ML models & visual analytics with Python & Tableau.
   
   
 - 🌱 Passionate about **AI for Healthcare**, scalable system design, and real-time analytics.
